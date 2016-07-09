@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SensorDemo</string>
+    <string name="shake_to_get_a_toast_and_to_switch_color">Shake to get a toast and to switch color</string>
+</resources>
